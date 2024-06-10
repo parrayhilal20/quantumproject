@@ -1,0 +1,46 @@
+body{
+    background-image:url('../images/25786.jpg') ;
+    font-family: monospace , 'Courier New', Courier; 
+}
+.navbar-brand{
+    color: #fff;
+    font-family:  monospace, 'Courier New', Courier;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.ai{
+    color: #fff;
+}
+.btn-warning{
+    color: #fff;
+}
+.qe {
+    background-color: #fff;
+}
+.wh {
+    background-color: #000;
+    color: #fff;
+}
+.navbar ul li a{
+    color: #fff!important ;
+}
+.navbar-toggler-icon {
+    background-color: #fff!important ;
+}
+
+.nd {
+    background-color: #000;
+    color:#fff
+}
+
+.sn{
+    background-color: #fff;
+    color: #000;
+}
+#worried {
+    color:darkblue;
+    text-align: center;
+}
+.navbar-brand:hover{
+    color: aqua;
+}
